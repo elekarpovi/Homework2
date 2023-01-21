@@ -20,3 +20,6 @@ else
 
     System.Console.WriteLine($"Третьей цифры нет!");
   
+//string? str = Console.ReadLine(); Вариант решения
+//if (str == null) return;
+//System.Console.WriteLine(str[2]);
